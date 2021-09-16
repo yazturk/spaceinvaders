@@ -1,6 +1,8 @@
 #!/usr/bin/racket
 #reader(lib "htdp-beginner-abbr-reader.ss" "lang")((modname space-invaders-starter) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
 
+;; How to code: Simple Data kursunun ödevi olarak geliştirilmiştir
+
 (require 2htdp/universe)
 (require 2htdp/image)
 
